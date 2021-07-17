@@ -33,15 +33,15 @@ Quiero reflejar en cada una de las secciones el conocimiento que fui obteniendo 
 
 Por otra parte quisiera dejar una lista de elementos que podrían servir como template para quienes arman una oferta de trabajo, de cuál sería el ideal para que un back-end entienda en que va a estar trabajando.
 
-## Template Oferta Laboral
+## 💼 Template Oferta Laboral
 
-### Job Description
+### 🧾 Job Description
 
 Buscamos un Back-End Web Developer responsable de gestionar el intercambio de datos entre el servidor y los usuarios. Su enfoque principal será el desarrollo de toda la lógica del lado del servidor, la definición y el mantenimiento de la base de datos, y garantizar un alto rendimiento y capacidad de respuesta a las solicitudes desde el front-end. También será responsable de integrar los elementos frontales creados por sus compañeros de trabajo en la aplicación. Por lo tanto, también es necesario un conocimiento básico de las tecnologías front-end utilizadas.
 
 Buscamos un ingeniero / desarrollador de software para unirse a nuestro equipo de desarrollo de vanguardia a medida que crece. Queremos a alguien que se sienta cómodo preguntando "¿por qué?" El candidato ideal es un pensador que comprenda las mejores prácticas de la industria y tenga experiencia con los lenguajes necesitados. Que sea un jugador de equipo el cual posee sólidas habilidades analíticas y técnicas, y sea capaz de comunicar la lógica detrás de las decisiones técnicas a las partes interesadas del negocio (es decir, no tecnológicas). Deben sentirse cómodos trabajando en un entorno ágil y tener la capacidad de "tomar el volante" cuando sea necesario.
 
-### Responsibilities
+### 👩‍👧 Responsibilities
 
 - Integración de elementos orientados al usuario desarrollados por desarrolladores front-end con lógica del lado del servidor
 - Creación de código y librerías reutilizables para uso futuro
@@ -50,7 +50,7 @@ Buscamos un ingeniero / desarrollador de software para unirse a nuestro equipo d
 - Diseño e implementación de soluciones de almacenamiento de datos
 - [Etc]
 
-### Skills And Qualifications
+### 📚 Skills And Qualifications
 
 - Comprensión básica de tecnologías y plataformas front-end, como HTML, CSS y JavaScript.
 - Comprender la accesibilidad y el cumplimiento de la seguridad.
@@ -69,9 +69,9 @@ Buscamos un ingeniero / desarrollador de software para unirse a nuestro equipo d
 - Comprensión de la "gestión de sesiones" en un entorno de servidor distribuido.
 - [Asegúrese de mencionar cualquier otro framework, librería o cualquier otra tecnología relacionada con su stack de desarrollo]
 
-## Transversales
+## 🔎 Transversales (Back-end & Front-end)
 
-### Responsabilities
+### 🔑 Responsabilities
 
 - Analizar los requisitos de los usuarios
 - Crear soluciones de software innovadoras, escalables y tolerantes a fallas para nuestros clientes y nuestra base de clientes.
@@ -80,7 +80,7 @@ Buscamos un ingeniero / desarrollador de software para unirse a nuestro equipo d
 - Cree especificaciones técnicas claras
 - Ampliar el software existente para satisfacer las necesidades cambiantes de nuestra demografía clave.
 
-### Skills
+### 🛠 Skills
 
 - La capacidad de analizar información técnica compleja.
 - Diseño e implementación de estructuras de bases de datos cómodas para resolver problemas del mundo real de manera efectiva
@@ -90,4 +90,4 @@ Buscamos un ingeniero / desarrollador de software para unirse a nuestro equipo d
 - Un enfoque lógico, analítico y creativo para la resolución de problemas.
 - Un estilo de trabajo minucioso y orientado a los detalles
 
-No siempre tienen que estar todos los puntos anteriores sirve de base para partir y poder armar acorde a la empresa todo lo necesario y requerido para que un programador pueda entender que es lo que tiene que realizar dentro de su sistema. Recordemos que a todos nos gusta entrar a trabajar sabiendo que es aproximadamente lo que vamos a estar haciendo.
+No siempre tienen que estar todos los puntos anteriores sirve de base para partir y poder armar acorde a la empresa todo lo necesario y requerido para que un programador pueda entender que es lo que tiene que realizar dentro de su sistema. Recordemos que a todos nos gusta entrar a trabajar sabiendo que es aproximadamente lo que vamos a estar haciendo. 
