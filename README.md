@@ -60,19 +60,19 @@ Buscamos un ingeniero / desarrollador de software para unirse a nuestro equipo d
 - Migración, transformación y scripting de datos.
 - Configuración y administración de copias de seguridad.
 - Salida de datos en diferentes formatos (JSON, XML, etc).
-- Comprender las diferencias entre múltiples plataformas de entrega, como dispositivos móviles y computadoras de escritorio, y optimizar la salida para que coincida con la plataforma específica.
 - Creación de esquemas de bases de datos que representen y respalden los procesos comerciales.
-- Implementación de plataformas de prueba automatizadas (pruebas unitarias, de integración, e2e).
-- Conocimiento competente de un lenguaje de programación back-end (Especificar cual es el principal que se usa y en caso de ser necesario otro colocarlo como secundario, es importante a la hora de buscar ver cuál es el preponderante)
-- Comprensión competente de las herramientas de control de versiones de código, como Git, junto a alguna plataforma de hosting como Github / GitLab / Bitbucket.
-- Entendimiento del funcionamiento del ORM (X) para no siempre hacer queries que no son lo más óptimas.
+- Implementación de pruebas automatizadas (pruebas unitarias, de integración, e2e).
+- Conocimiento competente de un lenguaje de programación back-end (Especificar)
+- Comprensión competente de las herramientas de control de versiones de código, como Git, junto a alguna plataforma de hosting como Github.
+- Entendimiento del funcionamiento del ORM.
 - Comprensión competente de los principios de seguridad de OWASP (Al menos lo más básico: SQL Injection, XSS, CSRF, etc aunque a veces algunos los manejen los frameworks si no tenemos conocimiento puede que aun usando frameworks podamos sufrir alguno por mal uso de los mismos)
 - Comprensión de la "gestión de sesiones" en un entorno de servidor distribuido.
 - [Asegúrese de mencionar cualquier otro framework, librería o cualquier otra tecnología relacionada con su stack de desarrollo]
 
-Transversales
+## Transversales
 
-Responsabilidades
+### Responsabilities
+
 - Analizar los requisitos de los usuarios
 - Crear soluciones de software innovadoras, escalables y tolerantes a fallas para nuestros clientes y nuestra base de clientes.
 - Trabajar en estrecha colaboración con gerentes de proyectos, diseñadores de UX, otros desarrolladores, analistas de sistemas, artistas gráficos y profesionales de ventas y marketing.
@@ -80,11 +80,14 @@ Responsabilidades
 - Cree especificaciones técnicas claras
 - Ampliar el software existente para satisfacer las necesidades cambiantes de nuestra demografía clave.
 
-Skills
+### Skills
+
 - La capacidad de analizar información técnica compleja.
 - Diseño e implementación de estructuras de bases de datos cómodas para resolver problemas del mundo real de manera efectiva
 - Conocimiento de los problemas actuales que afectan a la industria y sus tecnologías.
-- Familiaridad con los marcos y los kits de herramientas de la interfaz de usuario
+- Familiaridad con los frameworks
 - Un enfoque de trabajo meticuloso y organizado
 - Un enfoque lógico, analítico y creativo para la resolución de problemas.
 - Un estilo de trabajo minucioso y orientado a los detalles
+
+No siempre tienen que estar todos los puntos anteriores sirve de base para partir y poder armar acorde a la empresa todo lo necesario y requerido para que un programador pueda entender que es lo que tiene que realizar dentro de su sistema. Recordemos que a todos nos gusta entrar a trabajar sabiendo que es aproximadamente lo que vamos a estar haciendo.
