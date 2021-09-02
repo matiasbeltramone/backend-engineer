@@ -25,7 +25,7 @@ Como desarrolladores back-end a lo largo de nuestra carrera necesitamos conocimi
 - Architectures.
 - Testing.
 - Debugging / Logging / Profiling / Monitoring.
-- Infrastructure (Cache, Queues, Persitence)
+- Infrastructure (Cache, Queues, Persistence)
 - Deployment
 - Security
 
